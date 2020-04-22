@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  background-color: firebrick;
+}
+
+div {
+  background-color: floralwhite;
+  width: 630px;
+  padding: 25px;
+  margin: auto;
+  border-radius: 10px;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+button {
+  background-color: gold;
+  padding: 4px 7px;
+}
